@@ -1282,6 +1282,9 @@
   "ryu1kn.edit-with-shell": {
     "repository": "https://github.com/ryu1kn/vscode-edit-with-shell"
   },
+  "sailpoint.telescope": {
+    "repository": "https://github.com/sailpoint-oss/telescope"
+  }
   "saltud.type4py": {
     "repository": "https://github.com/saltudelft/type4py-vscode-ext"
   },
